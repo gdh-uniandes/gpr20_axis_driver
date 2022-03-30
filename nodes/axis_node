@@ -1,0 +1,8 @@
+#!/usr/bin/env python
+
+# Imports main executable node
+from gpr20_axis.axis_node import AxisNode
+
+if __name__ == "__main__":
+
+	AxisNode()
